@@ -15,6 +15,19 @@ contient :
 - les analyses temporelles, géographiques et produit ;
 - cinq hypothèses marketing à tester pendant la segmentation RFM.
 
+La [fiche de qualification des données et de vigilance RGPD](Fiche%20qualification%20donnees%20et%20vigilance%20RGPD.md)
+documente la nature des données, les usages envisagés, les risques observés et
+les contrôles nécessaires avant toute activation marketing réelle.
+
+## Livrable Jour 2
+
+Le notebook [02_segmentation_rfm_lumina.ipynb](02_segmentation_rfm_lumina.ipynb)
+reconstruit les indicateurs RFM depuis les transactions, documente les seuils de
+scoring et produit sept segments actionnables.
+
+La [carte des segments RFM](Carte_segments_RFM.md) synthétise leur taille, leur
+part du chiffre d'affaires, leur priorité et les actions marketing recommandées.
+
 ## Installation
 
 Le projet utilise Python 3 et Jupyter.
