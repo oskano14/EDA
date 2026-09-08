@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données CRM brutes : locales, volumineuses et potentiellement sensibles.
+Lumina & Co - CRM/*.csv
+
+# Exports générés par les notebooks.
+outputs/
