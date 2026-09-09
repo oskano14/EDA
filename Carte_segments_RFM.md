@@ -1,4 +1,4 @@
-# Carte des segments RFM - Lumina & Co
+# EDA marketing - Lumina & Cogmentation
 
 ## Méthode
 

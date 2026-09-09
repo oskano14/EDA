@@ -3,6 +3,10 @@
 Projet fil rouge de data marketing consacré au nettoyage, à l'analyse
 exploratoire et à la segmentation des données CRM de Lumina & Co.
 
+Commencer par l'[analyse détaillée des données](Analyse_detaillee_donnees_Lumina.md)
+pour comprendre le périmètre, la qualité des sources, les comportements d'achat,
+les limites et le passage de l'EDA à la segmentation RFM.
+
 ## Livrable Jour 1
 
 Le notebook [01_eda_nettoyage_lumina.ipynb](01_eda_nettoyage_lumina.ipynb)
@@ -27,6 +31,13 @@ scoring et produit sept segments actionnables.
 
 La [carte des segments RFM](Carte_segments_RFM.md) synthétise leur taille, leur
 part du chiffre d'affaires, leur priorité et les actions marketing recommandées.
+
+La [présentation du Jour 2](Presentation_Jour_2_RFM.md) propose un support court
+pour expliquer à l'oral la méthode, les règles et les résultats de segmentation.
+
+Le [plan d'activation RFM personnalisé](Plan_activation_RFM_personnalise.md)
+détaille les actions par segment, les offres selon la préférence déclarée et
+l'adaptation du message à la tranche d'âge.
 
 ## Installation
 
