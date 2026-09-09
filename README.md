@@ -39,6 +39,12 @@ Le [plan d'activation RFM personnalisé](Plan_activation_RFM_personnalise.md)
 détaille les actions par segment, les offres selon la préférence déclarée et
 l'adaptation du message à la tranche d'âge.
 
+## Livrable Jour 3
+
+L'[analyse du TP3 Data Storytelling](Analyse_TP3_Data_Storytelling.md) transforme
+les résultats RFM en une problématique business, cinq faits, trois insights et
+un storyboard de cinq slides pour un pitch CMO de cinq minutes.
+
 ## Installation
 
 Le projet utilise Python 3 et Jupyter.
