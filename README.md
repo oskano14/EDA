@@ -41,9 +41,21 @@ l'adaptation du message à la tranche d'âge.
 
 ## Livrable Jour 3
 
-L'[analyse du TP3 Data Storytelling](Analyse_TP3_Data_Storytelling.md) transforme
+Le notebook [03_kpis_attribution_multicanal_lumina.ipynb](03_kpis_attribution_multicanal_lumina.ipynb)
+calcule les KPI par campagne et par canal, compare les modèles d'attribution
+first touch, last touch et multi-touch linéaire, puis teste la cohérence des
+résultats.
+
+L'[analyse du TP3 Attribution Multicanal](Analyse_TP3_Attribution_Multicanal.md)
+synthétise les arbitrages budgétaires proposés au CMO et les limites de mesure.
+
+L'[analyse Data Storytelling](Analyse_TP3_Data_Storytelling.md) transforme
 les résultats RFM en une problématique business, cinq faits, trois insights et
 un storyboard de cinq slides pour un pitch CMO de cinq minutes.
+
+La [restitution complète au CMO](Lumina_Co_Restitution_CMO_complete.pptx)
+réunit la segmentation, les KPI de campagne, l'attribution multicanal et le plan
+d'action dans un support de huit slides.
 
 ## Installation
 

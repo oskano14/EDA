@@ -1,4 +1,4 @@
-# EDA marketing - Lumina & Cogmentation
+pandas>=2.3,<4g - Lumina & Cogmentation
 
 ## Méthode
 
